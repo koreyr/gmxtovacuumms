@@ -1,0 +1,2 @@
+ 1060  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/koreyr/github/spack/opt/spack/linux-zen3/vacuumms-develop-4uzndhzmhc6ycxoeukkb4g6bu5cremft/lib/
+ 1061  export PYTHONPATH=$PYTHONPATH:/home/koreyr/github/spack/opt/spack/linux-zen3/vacuumms-develop-4uzndhzmhc6ycxoeukkb4g6bu5cremft/lib/
